@@ -1,0 +1,42 @@
+{
+  "cn/weaknet/lab/AndroidPacketPort.java": {
+    "mtime": 1791453896.1301944,
+    "ast_hash": "ba4704be086a4471ecc1977048650aa7",
+    "semantic_hash": "ba4704be086a4471ecc1977048650aa7"
+  },
+  "cn/weaknet/lab/LocalSocks.java": {
+    "mtime": 1791453956.406988,
+    "ast_hash": "4012d9840567fab5ba8b0e6e48fc0c09",
+    "semantic_hash": "4012d9840567fab5ba8b0e6e48fc0c09"
+  },
+  "cn/weaknet/lab/MainActivity.java": {
+    "mtime": 1791454430.2590203,
+    "ast_hash": "3ef5e1e37e5a0ab9e7735583bb686478",
+    "semantic_hash": "3ef5e1e37e5a0ab9e7735583bb686478"
+  },
+  "cn/weaknet/lab/PacketBridge.java": {
+    "mtime": 1791453896.7454863,
+    "ast_hash": "43dcebcce6dc1a875e61bd80a119a89f",
+    "semantic_hash": "43dcebcce6dc1a875e61bd80a119a89f"
+  },
+  "cn/weaknet/lab/PacketSchedule.java": {
+    "mtime": 1791453896.1301944,
+    "ast_hash": "c9da61ea077407aa310dcd69f7febcdd",
+    "semantic_hash": "c9da61ea077407aa310dcd69f7febcdd"
+  },
+  "cn/weaknet/lab/Profile.java": {
+    "mtime": 1791451516.4628294,
+    "ast_hash": "ab2e3ccdd22e4e55acdb004c1d883e93",
+    "semantic_hash": "ab2e3ccdd22e4e55acdb004c1d883e93"
+  },
+  "cn/weaknet/lab/ResourceGroup.java": {
+    "mtime": 1791453896.1291175,
+    "ast_hash": "ea15b7521eab003664e6c9373783b8a8",
+    "semantic_hash": "ea15b7521eab003664e6c9373783b8a8"
+  },
+  "cn/weaknet/lab/WeakVpnService.java": {
+    "mtime": 1791454104.7971709,
+    "ast_hash": "9efa21e8f0bd04ec2c77b18619864e03",
+    "semantic_hash": "9efa21e8f0bd04ec2c77b18619864e03"
+  }
+}
